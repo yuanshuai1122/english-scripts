@@ -2,7 +2,7 @@
 
 ## Clean Script
 
-Hey everyone! I'm a software developer, and I wanna share why I'm learning English.
+Hey everyone! I'm Andy, a software developer, and I want to share why I'm learning English.
 
 First off, I'm constantly reading technical documentation - you know, APIs, frameworks, libraries. Most of the cutting-edge stuff is written in English, so I gotta improve my reading skills to stay updated with the latest tech trends.
 
